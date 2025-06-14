@@ -1,1 +1,3 @@
-print('Test fot GitHub')
+print("Test fot GitHub")
+a = int(input())
+print(a)
